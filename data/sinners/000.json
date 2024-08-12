@@ -1,0 +1,212 @@
+{
+  "id": "000",
+  "name": "000",
+  "code": "MBCC-S-000",
+  "rank": "S",
+  "searchTags": ["zero"],
+  "tendency": "umbra",
+  "alignment": "pestilence",
+  "corebreak": true,
+  "birthplace": "Unknown",
+  "height": 168,
+  "gender": "Female",
+  "birthday": "June 1",
+  "ability": "[Measurement Anomalous]",
+  "case": "N.F.114 DisDark Web Series of Events",
+  "info": "A Sinner adept at Physical Output. Deals Core Damage when casting an Ultimate.",
+  "releaseDate": "2032-01-01",
+  "damageType": ["physical"],
+  "exclusiveCrimebrand": {
+    "name": "Possibility",
+    "description": "Every time 000 uses [Hack], [Zero Domain Storm], or [Kyouran Overflow] to damage enemies, she will data breach them. Data breach progress can be accumulated. The higher their data breach progress, the more damage 000 will deal to them, up to 25% / 35% / 45% more. After their data breach progress reaches critical value, every part of [Zero Domain Storm] will deal an additional (Attack * 100%) Physical Damage to them and cause them to take  5% / 10% / 15% increased damage, lasting for the entire battle."
+  },
+  "ecbFlavourText": "\"Hello, World!\"",
+  "maniaIntensify": {
+    "title": "TBA",
+    "text": "Attack Speed is increased by #15%.#"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "atkSpd": 1,
+      "block": 1,
+      "hp": 1082,
+      "atk": 155,
+      "def": 85,
+      "res": 87
+    },
+    {
+      "level": 90,
+      "atkSpd": 1,
+      "block": 1,
+      "hp": 4652,
+      "atk": 666,
+      "def": 365,
+      "res": 373
+    }
+  ],
+  "media": [
+    {
+      "title": "[Eng CC] 2nd Anniversary S-rank Umbra | 000 \"Dark Web Phantom\" Character Trailer",
+      "id": "Ti0KGGbDDtY",
+      "author": "Jiu Jiu subs",
+      "authorID": "qwertdwlrma"
+    }
+  ],
+  "img": {
+    "skill1": "https://utfs.io/f/f60639ae-fd55-4aac-a828-06a9a1e6d398-c3nkfx.png",
+    "skill2": "https://utfs.io/f/11926902-ff39-45f6-a277-204d3866dcf3-c3nkfy.png",
+    "skill3": "https://utfs.io/f/61252785-062c-44f0-933f-f323d7d8a85a-c3nkfz.png",
+    "skill4": "https://utfs.io/f/9266e471-305e-4112-ab23-ca2fd0a7c29e-c3nkg0.png",
+    "shackles1": "https://utfs.io/f/eada82db-f3b2-4f62-a641-8bb6604b64d9-vl96gi.png",
+    "shackles2": "https://utfs.io/f/b4c5df0c-c2b1-44b1-a074-18e594150847-vl96gh.png",
+    "shackles3": "https://utfs.io/f/8cc217b6-fe9f-41bc-9562-466355cc1eba-vl96gg.png",
+    "shackles4": "https://utfs.io/f/284543e9-a500-4032-9759-57b14f5762ec-vl96gf.png",
+    "shackles5": "https://utfs.io/f/3aa0bee8-07ac-4be6-8aef-d1c949ec1d25-vl96ge.png",
+    "thumbnail": "https://utfs.io/f/4e1674f5-a78b-4339-b87a-06ab79bc35f1-nkrkpb.png",
+    "ecb": "https://utfs.io/f/4f2a6cb4-bb66-48b4-a8e8-6f8e7ad8e45a-hpby3r.jpg",
+    "phaseup": "https://utfs.io/f/47140532-3e67-464a-95cf-322a7fb0c514-pkvdc7.png",
+    "icon": "https://utfs.io/f/160f9c9a-ff06-4dd3-a673-13aecd53a373-jfji8a.png",
+    "interrogation": "https://utfs.io/f/666544a9-47e3-4b71-89ef-6ef2c16ed442-8mq4ra.png",
+    "base": "https://utfs.io/f/0bf89a9f-3e92-4182-8a95-cdc66cd0ecdf-jfo0j6.png",
+    "mini": "https://utfs.io/f/82dc1290-28b0-41d4-b1d9-2479e717233a-jfgtv0.jpg",
+    "mugshot": "https://utfs.io/f/ac5d2ff0-1ff0-4500-91a4-7ecce9127595-7nxqqk.png",
+    "gallery": "https://utfs.io/f/a2ff8682-8d9c-42ab-b1ae-ff690dd2c58e-irlwln.png"
+  },
+  "tags": ["exclusive"],
+  "release": "unreleased",
+  "skillDistribution": "TBA",
+  "skillMat": "tear",
+  "skillRelic": "corpses",
+  "phaseMat1": "red",
+  "phaseMat2": "cyst",
+  "shackles": [
+    {
+      "title": "Anonymous Access",
+      "description": "Energy gained from [Kyouran Overflow] increased by 1. After [Kyouran Overflow] is used, 000 gains a 15% Attack Speed increase, lasting for 6 seconds."
+    },
+    { "title": "Shackles Sync I", "description": "Attack +5%." },
+    {
+      "title": "Data Hijack",
+      "description": "The original damage coefficient dealt by [Geist Invasion] is increased by 10% and the duration is extended by 4 seconds."
+    },
+    {
+      "title": "Energy Overflowing",
+      "description": "000 gains 18 energy at the start of battle."
+    },
+    { "title": "Shackles Sync II", "description": "Attack +5%." }
+  ],
+  "skills": [
+    {
+      "name": "Hack",
+      "tags": ["Normal ATK"],
+      "description": "000 uses data rings to attack, each hit dealing (Attack * 71%) Physical Damage.",
+      "range": [
+        [0, 1, 0],
+        [1, 9, 1],
+        [0, 1, 0]
+      ],
+      "upgrade": {
+        "description": "Damage coefficient increases to $0%.",
+        "values": [
+          [71],
+          [77],
+          [83],
+          [89],
+          [97],
+          [104],
+          [113],
+          [122],
+          [131],
+          [142]
+        ]
+      }
+    },
+    {
+      "name": "Zero Domain Storm",
+      "tags": ["Ultimate", "21 Energy", "1 Core Damage"],
+      "description": "000 moves to target grid, attacking all enemies within skill range three times, dealing a total of (Attack * 930%) Physical Damage and X Core Damage. [Zero Domain Storm] can be charged up to X times.",
+      "range": [
+        [1, 1, 1, 1],
+        [9, 1, 1, 1],
+        [1, 1, 1, 1]
+      ],
+      "upgrade": {
+        "description": "Damage coefficient increases to $0%.",
+        "values": [
+          [930],
+          [1004],
+          [1085],
+          [1172],
+          [1266],
+          [1367],
+          [1476],
+          [1594],
+          [1722],
+          [1860]
+        ]
+      }
+    },
+    {
+      "name": "Geist Invasion",
+      "tags": ["Passive"],
+      "description": "Unlocks second Ultimate [Geist Invasion]. 000 enters projection form. Under projection form, after 000 uses [Hack], [Zero Domain Storm], or [Kyouran Overflow], the effect will additionally be triggered twice, dealing 15.6% of the original damage, lasting for 12 seconds.",
+      "range": [[]],
+      "upgrade": {
+        "description": "$0%.",
+        "values": [
+          [15.6],
+          [17.2],
+          [18.8],
+          [20.4],
+          [22],
+          [23.6],
+          [25.2],
+          [26.8],
+          [28.4],
+          [30]
+        ]
+      }
+    },
+    {
+      "name": "Kyouran Overflow",
+      "tags": ["Passive"],
+      "description": "Every time after 000 has used [Hack] 9 times, she controls her data rings to slice surrounding enemies, dealing (Attack * 264%) Physical Damage to all enemies within skill range, then gains 1 energy. The release of this ability is affected by Attack Speed bonuses.",
+      "range": [
+        [1, 1, 1],
+        [1, 9, 1],
+        [1, 1, 1]
+      ],
+      "upgrade": {
+        "description": "Damage coefficient increases to $0%.",
+        "values": [
+          [264],
+          [285],
+          [308],
+          [333],
+          [359],
+          [388],
+          [419],
+          [453],
+          [489],
+          [528]
+        ]
+      }
+    }
+  ],
+  "compliance": [
+    "Unlock File: Performance in Serving Term, TBA +TBA",
+    "TBA +TBA",
+    "TBA +TBA",
+    "Unlock Voice: Special Conversation 1, TBA +TBA, Unlock Mission: TBA.",
+    "TBA +TBA",
+    "Unlock File: Performance in Serving Term",
+    "Unlock Voice: Special Conversation 2",
+    "Unlock Voice: Special Conversation 3, Unlock Mission: Complete Interrogation.",
+    "Unlock File: Performance in Serving Term, Unlock Sticker",
+    "Unlock File: Performance in Serving Term, Unlock Voice: Full Compliance, Unlock Sinner Title: TBA"
+  ],
+  "criminalRecord": "In N.F. 114, consecutive malicious dark web-related incidents broke out in the city. All incidents were catalysed by Mania. It is possible that a criminal organisation was behind this. The subject is active behind the dark web and is closely linked to this series of events.",
+  "mutationAssessment": "Attempts to measure the subject's ability produced abnormal results. Forced intervention will lead to calamitous consequences such as reality distortion, cautious observation is strongly advised. ",
+  "voicelines": []
+}

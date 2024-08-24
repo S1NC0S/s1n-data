@@ -1,0 +1,111 @@
+{
+  "id": "korryn",
+  "name": "Korryn",
+  "code": "MBCC-S-066",
+  "rank": "S",
+  "tendency": "reticle",
+  "alignment": "TBA",
+  "birthplace": "TBA",
+  "gender": "TBA",
+  "birthday": "TBA",
+  "ability": "TBA",
+  "case": "TBA",
+  "info": "TBA",
+  "releaseDate": "2033-01-11",
+  "damageType": ["TBA"],
+  "exclusiveCrimebrand": { "name": "TBA", "description": "TBA" },
+  "maniaIntensify": { "title": "TBA", "text": "TBA" },
+  "stats": [
+    {
+      "level": 1,
+      "atkSpd": 0,
+      "block": 0,
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "res": 0
+    },
+    {
+      "level": 90,
+      "atkSpd": 0,
+      "block": 0,
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "res": 0
+    }
+  ],
+  "img": {
+    "gallery": "https://utfs.io/f/5c2fb9af-d961-4916-9453-6d9d190331aa-f09rr4.jpg",
+    "icon": "https://utfs.io/f/1583ed52-c213-4736-aa90-3788d762e3df-2wxho1.jpg",
+    "mini": "https://utfs.io/f/33107c48-dcb5-4cd9-aba2-f3b26a5ed45d-dcr5ub.jpg"
+  },
+  "release": "unreleased",
+  "skillDistribution": "TBA",
+  "skillMat": "TBA",
+  "skillRelic": "TBA",
+  "phaseMat1": "TBA",
+  "phaseMat2": "TBA",
+  "shackles": [
+    { "title": "TBA", "description": "TBA" },
+    { "title": "TBA", "description": "TBA" },
+    { "title": "TBA", "description": "TBA" },
+    { "title": "TBA", "description": "TBA" },
+    { "title": "TBA", "description": "TBA" }
+  ],
+  "skills": [
+    {
+      "name": "TBA",
+      "tags": ["Normal ATK"],
+      "description": "",
+      "range": [[]],
+      "upgrade": {
+        "description": "$0%.",
+        "values": [[0], [0], [0], [0], [0], [0], [0], [0], [0], [0]]
+      }
+    },
+    {
+      "name": "TBA",
+      "tags": ["Ultimate", "TBA Energy", "TBA Core Damage"],
+      "description": "",
+      "range": [[]],
+      "upgrade": {
+        "description": "$0%.",
+        "values": [[0], [0], [0], [0], [0], [0], [0], [0], [0], [0]]
+      }
+    },
+    {
+      "name": "TBA",
+      "tags": ["Passive"],
+      "description": "",
+      "range": [[]],
+      "upgrade": {
+        "description": "$0%.",
+        "values": [[0], [0], [0], [0], [0], [0], [0], [0], [0], [0]]
+      }
+    },
+    {
+      "name": "TBA",
+      "tags": ["Passive"],
+      "description": "",
+      "range": [[]],
+      "upgrade": {
+        "description": "$0%.",
+        "values": [[0], [0], [0], [0], [0], [0], [0], [0], [0], [0]]
+      }
+    }
+  ],
+  "compliance": [
+    "Unlock File: Performance in Serving Term, TBA +TBA",
+    "TBA +TBA",
+    "TBA +TBA",
+    "Unlock Voice: Special Conversation 1, TBA +TBA, Unlock Mission: TBA.",
+    "TBA +TBA",
+    "Unlock File: Performance in Serving Term",
+    "Unlock Voice: Special Conversation 2",
+    "Unlock Voice: Special Conversation 3, Unlock Mission: Complete Interrogation.",
+    "Unlock File: Performance in Serving Term, Unlock Sticker",
+    "Unlock File: Performance in Serving Term, Unlock Voice: Full Compliance, Unlock Sinner Title: TBA"
+  ],
+  "height": null
+}
